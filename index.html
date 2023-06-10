@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flixster</title>
+        <link rel = "stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <h1 id="title">🍿Flixster🎬</h1>
+        <h2 id="heading">All your movies...in one place!</h2>
+            <div class="searchBar">
+                <input type="text" id="search-input" placeholder="🔎 Search for a movie..">
+                <button id="searchButton" onclick="searchMovies()">Search</button>
+                <button id="close-search-btn" onclick = "clearSearch()">Close</button>
+              </div>
+        <div id = "movies-grid"></div>
+        <button id="load-more-movies-btn" onclick="loadMoreMovies()">Load More</button>
+        <script src="script.js"></script>
+    </body>
+</html> 
