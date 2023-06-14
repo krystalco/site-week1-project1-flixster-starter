@@ -16,6 +16,16 @@ h2{
 p {
     color:aliceblue
 }
+
+img { 
+    max-width: 100%; 
+}
+
+.movie-card:hover {
+    transform: scale(1.2);
+    
+}
+
 #heading {
     text-align: center;    
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -24,6 +34,7 @@ p {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 75px;
+    min-width: 960px;
 }
 #search-input {
     height: 22px;

@@ -36,6 +36,11 @@ function displayMovies(movies) {
     const movieTitle = document.createElement('h2');
     movieCard.classList.add('movie-title');
     movieTitle.innerText = movie.title;
+
+    const movieCardBack = document.createElement('div');
+    movieCard.classList.add('movie-card-back');
+
+
     // Append movie information to the movie card
     // Append the movie card to the movies container
     movieCard.appendChild(movieImage);

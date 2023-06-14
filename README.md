@@ -34,13 +34,16 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 - [ ] Deploy website using GitHub Pages.
 - [ ] Allow user to view more details about a movie within a popup.
-- [ ] Improve the user experience through CSS & animation.
+- [X] Improve the user experience through CSS & animation.
 - [ ] Allow movie video trailers to be played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
 - [ ] Implement anything else that you can get done to improve the app functionality!
 
 ### Walkthrough Video
 
-`<div style="position: relative; padding-bottom: 49.21875%; height: 0;"><iframe src="https://www.loom.com/embed/32adc25824a74a438facdcf09d77297a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
+<a href="https://www.loom.com/share/726cbef732324ce8939344add22405b9">
+    <p>Flixster - 13 June 2023 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/726cbef732324ce8939344add22405b9-with-play.gif">
+  </a>
 
 ### Reflection
 
